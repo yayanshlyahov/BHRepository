@@ -1,0 +1,16 @@
+TASK;OPT;PESS
+Create profile model;3;5
+Add validators to model;2;4
+Get initial data from template to profile;1;1
+Generate iccid;2;4
+;;
+Create html(djago) template ;8;10
+Add css to the template;2;3
+;;
+;;
+Add buttons with step logic to view;2;4
+;;
+Ñreat a request to the api and validate the response;3;4
+;;
+Save profile instances;1;1
+;24;36
